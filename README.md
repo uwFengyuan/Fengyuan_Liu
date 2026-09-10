@@ -2,7 +2,7 @@
 
 Personal academic homepage for Fengyuan Liu.
 
-Website: https://uwfengyuan.github.io/fengyuan-academic-homepage/
+Website: https://uwfengyuan.github.io/Fengyuan_Liu/
 
 This site is built with Jekyll and adapted from the public
 [`academic-homepage`](https://github.com/luost26/academic-homepage) template.
