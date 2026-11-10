@@ -1,0 +1,4 @@
+---
+title: "🎉 Two papers have been accepted to ACL 2026."
+date: 2026-07-01 00:00:00 +0000
+---
