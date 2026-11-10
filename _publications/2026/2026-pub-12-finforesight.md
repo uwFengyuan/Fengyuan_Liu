@@ -11,13 +11,13 @@ abstract: >-
 cover: /assets/images/covers/finforesight-framework.png
 authors:
   - "Fengyuan Liu*"
-  - "Mukai Li*#"
+  - "Mukai Li*"
   - "Jieshun You*"
   - "Yilin Zheng*"
   - "Chenjia Min"
   - "Yizhou Zhang"
   - "Harper Chen"
-  - "Qi Liu#"
+  - "Qi Liu"
 links:
   Paper: https://arxiv.org/pdf/2611.01621
   Code: https://github.com/OpenFinMind/FinForesight
