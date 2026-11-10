@@ -1,6 +1,6 @@
-{% if site.data.profile.education %}
+{% if include.section == "education" and site.data.profile.education %}
 <section class="profile-section mt-4">
-    <h2>Education</h2>
+    <h1 class="h4 mb-3">Education</h1>
     <div class="affiliation-list">
         {% for item in site.data.profile.education %}
         <div class="affiliation-item">
@@ -23,9 +23,9 @@
 </section>
 {% endif %}
 
-{% if site.data.profile.experience %}
+{% if include.section == "experience" and site.data.profile.experience %}
 <section class="profile-section mt-4">
-    <h2>Experience</h2>
+    <h1 class="h4 mb-3">Experience</h1>
     <div class="affiliation-list">
         {% for item in site.data.profile.experience %}
         <div class="affiliation-item">

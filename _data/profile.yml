@@ -24,17 +24,15 @@ linkedin: fengyuan-liu-quant
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    My name is Fengyuan Liu. I am a Ph.D. student at the <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>,
-    advised by <a href="https://leuchine.github.io/" target="_blank">Prof. Qi Liu</a>. I received my master's
+    My name is Fengyuan Liu. I am a Ph.D. student in the NLP group at the <a href="https://www.hku.hk/" target="_blank">University of Hong Kong</a>,
+    advised by <a href="https://leuchine.github.io/" target="_blank">Prof. Qi Liu</a> and
+    <a href="https://ikekonglp.github.io/" target="_blank" rel="noopener noreferrer">Prof. Lingpeng Kong</a>. I received my master's
     degree from the <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a>, where I was advised by
     <a href="https://jindonggu.github.io/" target="_blank">Dr. Jindong Gu</a> and
     <a href="https://eng.ox.ac.uk/people/philip-torr" target="_blank">Prof. Philip Torr</a>. Before that, I received
     a double major from the <a href="https://www.washington.edu/" target="_blank">University of Washington</a>:
     Computer Science and Applied Computational Mathematical Sciences (Data Science &amp; Statistics).
-  </p>
-  <p>
-    My previous research spans vision-language robustness, multi-agent systems, and tabular learning. At Oxford, I
-    worked on image origin attribution and adversarial robustness for vision-language models. At
+    At Oxford, I worked on image origin attribution and adversarial robustness for vision-language models. At
     <a href="https://roboticsx.tencent.com/" target="_blank">Tencent Robotics X</a>, advised by
     <a href="https://ruizhaogit.github.io/" target="_blank">Dr. Rui Zhao</a>, I studied adversarial manipulation in
     multi-agent systems, factuality and reasoning in vision-language models, and self-play for LLM-based agents. At
@@ -42,16 +40,22 @@ short_bio: >-
     <a href="https://people.iiis.tsinghua.edu.cn/~jianli/" target="_blank">Prof. Jian Li</a>, I worked on automated
     feature generation for tabular machine learning and smart beta modeling with multi-factor financial data.
   </p>
-  <p>
-    My current research focuses on
-    <a href="https://scholar.google.com/citations?hl=en&user=7gxp6NkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">AI for Finance</a>
-    and Quantitative NLP. I welcome collaborations in these directions.
-  </p>
-  <p>
-    We are building OpenFinMind. Explore our projects on
-    <a href="https://github.com/OpenFinMind" target="_blank" rel="noopener noreferrer">GitHub</a> and
-    <a href="https://huggingface.co/OpenFinMind" target="_blank" rel="noopener noreferrer">Hugging Face</a>.
-  </p>
+  <div>
+    <p>
+      My research goal is to build end-to-end AI systems for finance, from understanding financial data and
+      conducting research to forecasting, strategy discovery, and decision-making.
+      We are building OpenFinMind. Explore our projects on
+      <a href="https://github.com/OpenFinMind" target="_blank" rel="noopener noreferrer">GitHub</a> and
+      <a href="https://huggingface.co/OpenFinMind" target="_blank" rel="noopener noreferrer">Hugging Face</a>.
+    </p>
+    <p><strong>Research Areas:</strong></p>
+    <ul>
+      <li><strong>Alpha Factor Discovery:</strong> Code-based alpha mining and factor research.</li>
+      <li><strong>Financial Benchmarks &amp; Evaluation:</strong> Evaluating financial reasoning, forecasting, and research agents.</li>
+      <li><strong>Deep Research for Finance:</strong> LLM-based agents and multi-agent systems for financial research.</li>
+      <li><strong>Financial Time Series:</strong> Modeling and forecasting financial time series.</li>
+    </ul>
+  </div>
   <p>
     <strong>[Hiring!]</strong> I am looking for highly self-motivated students! If you would like to work with me
     as a research intern or collaborator, please contact me via
