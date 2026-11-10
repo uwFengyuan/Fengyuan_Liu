@@ -14,7 +14,7 @@ email: "oxfengyuan@gmail.com"
 gscholar: 7gxp6NkAAAAJ
 github: uwFengyuan
 huggingface: OxFengyuan
-# twitter:
+twitter: Fengyuan_Liu_19
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -46,6 +46,18 @@ short_bio: >-
     My current research focuses on
     <a href="https://scholar.google.com/citations?hl=en&user=7gxp6NkAAAAJ&view_op=list_works&sortby=pubdate" target="_blank">AI for Finance</a>
     and Quantitative NLP. I welcome collaborations in these directions.
+  </p>
+  <p>
+    We are building OpenFinMind. Explore our projects on
+    <a href="https://github.com/OpenFinMind" target="_blank" rel="noopener noreferrer">GitHub</a> and
+    <a href="https://huggingface.co/OpenFinMind" target="_blank" rel="noopener noreferrer">Hugging Face</a>.
+  </p>
+  <p>
+    <strong>[Hiring!]</strong> I am looking for highly self-motivated students! If you would like to work with me
+    as a research intern or collaborator, please contact me via
+    <a href="https://www.linkedin.com/in/fengyuan-liu-quant/" target="_blank" rel="noopener noreferrer">LinkedIn</a>,
+    <a href="https://x.com/Fengyuan_Liu_19" target="_blank" rel="noopener noreferrer">X</a>, or email at
+    <a href="mailto:oxfengyuan@gmail.com">oxfengyuan@gmail.com</a>.
   </p>
 
 portrait_url: /assets/images/photos/yinyang-profile.png
